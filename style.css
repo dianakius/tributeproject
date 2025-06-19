@@ -9,3 +9,20 @@
   font-size: 2rem;
   color: darkolivegreen;
 }
+#img-div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#image {
+  width: 100%;
+  max-width: 330px;
+  height: auto;
+  border-radius: 8px;
+}
+
+#img-caption {
+  font-style: italic;
+  color: #555;
+  margin-top: 8px;
+}
