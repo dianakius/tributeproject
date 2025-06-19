@@ -1,0 +1,59 @@
+/* Targeting by ID */
+#main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightgrey;
+}
+#title {
+  font-size: 2rem;
+  color: darkolivegreen;
+}
+#img-div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#image {
+  width: 100%;
+  max-width: 330px;
+  height: auto;
+  border-radius: 8px;
+}
+
+#img-caption {
+  font-style: italic;
+  color: #555;
+  margin-top: 8px;
+}
+#tribute-info {
+  margin: 20px 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+#tribute-information {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+  margin-top: 0px;
+  color: darkred;
+  text-decoration:underline;
+  font-weight: bold;
+}
+
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
+#tribute-info > p {
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
