@@ -33,14 +33,21 @@
   line-height: 1.6;
 }
 
+#tribute-information {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 #tribute-link {
   display: block;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 0px;
   color: darkred;
-  text-decoration: none;
+  text-decoration:underline;
   font-weight: bold;
 }
+
 
 #tribute-link:hover {
   text-decoration: underline;
