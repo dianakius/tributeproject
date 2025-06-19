@@ -45,3 +45,8 @@
 #tribute-link:hover {
   text-decoration: underline;
 }
+#tribute-info > p {
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
