@@ -19,7 +19,7 @@
   width: 100%;
   max-width: 330px;
   height: auto;
-  border-radius: 8px;
+  border-radius: 25px;
 }
 
 #img-caption {
@@ -56,4 +56,9 @@
     text-align: center;
     font-size: 1.1rem;
     line-height: 1.6;
+}
+#description {
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 25px;
 }
