@@ -36,7 +36,7 @@
 #tribute-information {
   font-size: 1.1rem;
   line-height: 1.6;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #tribute-link {
@@ -44,21 +44,21 @@
   text-align: center;
   margin-top: 0px;
   color: darkred;
-  text-decoration:underline;
+  text-decoration: underline;
   font-weight: bold;
 }
-
 
 #tribute-link:hover {
   text-decoration: underline;
 }
 #tribute-info > p {
-    text-align: center;
-    font-size: 1.1rem;
-    line-height: 1.6;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
-#description {
-    padding: 20px;
-    background-color: aliceblue;
-    border-radius: 25px;
+
+#img-description {
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 25px;
 }
